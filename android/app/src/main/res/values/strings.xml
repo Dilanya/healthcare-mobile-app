@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+    <string name="facebook_app_id">1323444178068393</string>
+    <string name="fb_login_protocol_scheme">fb1323444178068393</string>
+
+</resources>
